@@ -1,0 +1,13 @@
+h1 , h2 {
+    text-align: center;
+}
+body {
+    color: black;
+    background-color: #fff;
+}
+.rtl {
+    direction: rtl;
+}
+p {
+    text-align: justify;
+}
